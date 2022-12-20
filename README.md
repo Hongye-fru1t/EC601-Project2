@@ -14,7 +14,7 @@ I created the poster, hope it can show our work.
 This file contains:
 1. Project1
 2. Project2
-3. IDX test
+3. IPX test
 4. Presentation  file 
 5. Poster 
 6. codes 
